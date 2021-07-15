@@ -1,0 +1,10 @@
+lessons\services\GreetingService.class
+lessons\services\AutowiredClass.class
+lessons\AnotherConfiguration.class
+lessons\starter\Starter.class
+lessons\services\CommandManager.class
+lessons\LessonsConfiguration.class
+lessons\services\GreetingServiceImpl.class
+lessons\LessonsConfiguration$1.class
+lessons\BeanWithDependency.class
+lessons\AppConfig.class
